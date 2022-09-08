@@ -41,7 +41,7 @@ The nearest airport to The Louvre Museum is Paris Orly (ORY) Airport.
 ---
 <br>
 
-## Inspriring Quotes
+## Motivational Quotes
 
 > ***"Discipline is the bridge between goal and accomplishment."***
 
@@ -54,6 +54,8 @@ The nearest airport to The Louvre Museum is Paris Orly (ORY) Airport.
 ~ Abraham Lincoln
 
 --- 
+
+## Code Fencing Section: <br>
 
 >What is it in SVG file?
 
